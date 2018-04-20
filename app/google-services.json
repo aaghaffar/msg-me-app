@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "410436151058",
+    "firebase_url": "https://msgmeandroid.firebaseio.com",
+    "project_id": "msgmeandroid",
+    "storage_bucket": "msgmeandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410436151058:android:e99bfe6d947a7394",
+        "android_client_info": {
+          "package_name": "thealigproject.msgme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410436151058-is6uhj4gfl19vlepl86o4olrb8prjmoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgbLHobGpot7Djso7h70ILt1QfZh30V-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
